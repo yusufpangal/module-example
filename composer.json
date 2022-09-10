@@ -27,5 +27,5 @@
       "MageSheet\\Example\\": ""
     }
   },
-  "minimum-stability": "dev"
+  "minimum-stability": "stable"
 }
