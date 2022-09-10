@@ -10,7 +10,7 @@
     "magento 2 extension free"
   ],
   "type": "magento2-module",
-  "version": "0.0.1",
+  "version": "0.0.2",
   "license": "OSL-3.0",
   "authors": [
     {
@@ -27,5 +27,6 @@
       "MageSheet\\Example\\": ""
     }
   },
-  "minimum-stability": "stable"
+  "minimum-stability": "dev",
+  "prefer-stable": true
 }
