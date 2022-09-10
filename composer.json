@@ -1,6 +1,14 @@
 {
   "name": "yusufpangal/module-example",
   "description": "An example module for Magento 2 beginners",
+  "keywords": [
+    "magento 2",
+    "magento",
+    "magento 2 helloworld module",
+    "magento 2 example module",
+    "magento 2 example extension",
+    "magento 2 extension free"
+  ],
   "type": "magento2-module",
   "version": "0.0.1",
   "license": "OSL-3.0",
