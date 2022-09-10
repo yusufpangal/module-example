@@ -1,0 +1,23 @@
+{
+  "name": "yusufpangal/module-example",
+  "description": "An example module for Magento 2 beginners",
+  "type": "magento2-module",
+  "version": "0.0.1",
+  "license": "OSL-3.0",
+  "authors": [
+    {
+      "name": "Yusuf Pangal",
+      "email": "yusufpangal@gmail.com",
+      "homepage": "www.magentohocasi.com",
+      "role": "Developer"
+    }
+  ],
+  "autoload": {
+    "files": [
+      "registration.php"
+    ],
+    "psr-4": {
+      "MageSheet\\Example\\": ""
+    }
+  }
+}
