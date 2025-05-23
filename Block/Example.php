@@ -18,6 +18,6 @@ class Example extends Template
      * @return string
      */
     public function getContent() {
-        return "Hello World";
+        return "Hello World, Welcome to Magento";
     }
 }
