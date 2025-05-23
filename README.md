@@ -36,3 +36,5 @@ php bin/magento setup:static-content:deploy -f
 ```bash
 php bin/magento setup:di:compile
 ```
+
+Bu modül en son 2023 yılında güncellenmiştir.
