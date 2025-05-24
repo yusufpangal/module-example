@@ -1,0 +1,10 @@
+<form id='chat-form'>
+    <input type='text' id='chat-input' placeholder='Type your message here...'/>
+    <button type='submit'>Send</button>
+</form>
+<div id='chat-output'></div>
+<script type='text/javascript'>
+    require(['MageSheet_Example/js/chat'], function(chat) {
+        chat({}, document.getElementById('chat-form'));
+    });
+</script>
